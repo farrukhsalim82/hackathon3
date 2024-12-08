@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header-container-top{
+    height:132px;
+}
+.header-container-top-left{
+    
+    height:132px;
+}
+.header-container-top-middle{
+    height:132px;
+}
+.header-container-top-right{
+    height:132px;
+    
+}
+.shopping{
+    width: 16px;
+    height: 16px;
+}
+.user{
+    width: 16px;
+    height: 16px;
+    
+}
+.search{
+    width: 16px;
+    height: 16px;
+}
+.header-container-middle{
+    height: 132px;
+}
+.links{
+    color:#726E8D;
+}
+.header-container-bottom{
+    height: max-content;
+}
+.header-container-bottom-left{
+    background-color:#2A254B;
+}
+.con-bott{
+    width:170px;
+    height: 56px;
+    background-color: #f9f9f9;
+}
+.what-makes{
+    height: 355px;
+}
+.dark-primary{
+    color:#2A254B;
+}
+.join-the-club{
+    background-color: #f9f9f9;
+    height: 481px;
+}
+.join-inner{
+    background-color: white;
+    height: 380px;
+}
+.sign{
+    background-color: #f9f9f9;
+    width:354px;
+    height: 56px;
+}
+.sign-up{
+    background-color: black;
+    color: #f9f9f9;
+    width:118px;
+    height: 56px;
+}
+.footer{
+    background-color: #2A254B;
+    color: #f9f9f9;
+}
+.sign2{
+    background-color: #4e4d93;
+    width:510px;
+    height: 56px;
+}
+.footer-top{
+    border-bottom:2px solid #4e4d93;
+}
+.sign-up2{
+    background-color:#f9f9f9;
+    color: #000000;
+    width:118px;
+    height: 56px;
+}
